@@ -1,0 +1,15 @@
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.csproj.AssemblyReference.cache
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.AssemblyInfo.cs
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\march\Desktop\csharp\cardealership\bin\Debug\net6.0\CarDealership.exe
+C:\Users\march\Desktop\csharp\cardealership\bin\Debug\net6.0\CarDealership.deps.json
+C:\Users\march\Desktop\csharp\cardealership\bin\Debug\net6.0\CarDealership.runtimeconfig.json
+C:\Users\march\Desktop\csharp\cardealership\bin\Debug\net6.0\CarDealership.dll
+C:\Users\march\Desktop\csharp\cardealership\bin\Debug\net6.0\CarDealership.pdb
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.dll
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\refint\CarDealership.dll
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.pdb
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\CarDealership.genruntimeconfig.cache
+C:\Users\march\Desktop\csharp\cardealership\obj\Debug\net6.0\ref\CarDealership.dll
